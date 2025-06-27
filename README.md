@@ -32,7 +32,7 @@ This is my **second experience working with the DOM** as part of my journey in l
 
 ## 🔗 Live Demo
 
-- 
+- https://baselelsrogy.github.io/pig-dice-game/
 
 ## 📷 Preview
 
